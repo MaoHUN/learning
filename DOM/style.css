@@ -1,3 +1,12 @@
+<<<<<<< HEAD
+body{
+background-color: gray;
+
+}
+
+h1{
+  color: red;
+=======
 .invisible {
   visibility: hidden;
 }
@@ -6,4 +15,5 @@
    font-size: 10rem;
    color: red;
    font-weight: bold;
+>>>>>>> 2d8570732c4770ad338f8773a1b666d306fe75a0
 }
